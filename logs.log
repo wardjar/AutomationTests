@@ -1,0 +1,10 @@
+28:11:2021 - 14:31:14.219 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Starting:BasicFunctions.InputKeys
+28:11:2021 - 14:31:14.321 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Ending:BasicFunctions.InputKeys
+28:11:2021 - 14:31:14.323 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Starting:BasicFunctions.ClickObject
+28:11:2021 - 14:31:14.385 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Ending:BasicFunctions.ClickObject
+28:11:2021 - 14:31:14.387 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Starting:BasicFunctions.FindObjectText
+28:11:2021 - 14:31:14.434 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Ending:BasicFunctions.FindObjectText
+28:11:2021 - 14:31:14.450 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Starting:BasicFunctions.EndDriver
+28:11:2021 - 14:31:14.582 INFO test.StudentFormTest [main] - >>>>>>>>>>>>>>Ending:BasicFunctions.EndDriver
+28:11:2021 - 14:31:14.598 DEBUG buffer.PoolThreadCache [AsyncHttpClient-1-4] - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+28:11:2021 - 14:31:14.598 DEBUG buffer.PoolThreadCache [AsyncHttpClient-1-3] - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
